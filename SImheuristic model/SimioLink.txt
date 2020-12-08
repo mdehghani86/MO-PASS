@@ -1,0 +1,1 @@
+001;AvgUtilization;83.4110717021918;LOS;0.91384700476807;nPatients;47;Overtime;0;RunEndTime;7.69116640740741;JustaNumber;111|
